@@ -60,17 +60,6 @@ To run lightning app on your local system follow the below instructions
 
 * This will open up ![swagger-ui](https://github.com/swagger-api/swagger-ui) for the app. 
 
-* If you want to use the backend which I have deployed use the below command to curl for results
-```
-curl -X 'POST' \
-  'https://mhwgp-01gjvacrnf5yhhtdeebd0bhw3t.litng-ai-03.litng.ai/api/predict' \
-  -H 'accept: application/json' \
-  -H 'Content-Type: multipart/form-data' \
-  -F 'data=<Path to your file>'
-```
-
-**Note: I cannot guarantee how much time this API will be hosted as it may cost me later down the line.**
-
 ## Anime transformation results
 
 
