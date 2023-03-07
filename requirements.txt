@@ -1,0 +1,6 @@
+torch
+omegaconf
+pytorch-lightning
+mlflow
+torchvision
+opencv-python

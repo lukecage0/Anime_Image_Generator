@@ -1,0 +1,4 @@
+outs:
+- md5: 5b31d26bcda92af369050eccd4367e4f
+  size: 8602238
+  path: generator_f_100.pt

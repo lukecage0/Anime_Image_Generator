@@ -1,0 +1,17 @@
+epochs: 100
+init_epoch: 5
+lr_gen: 0.00008
+lr_disc:  0.00016
+init_lr:  0.0001
+data_dir: "./dataset"
+batch_size:  4
+wadv_g:  10.0
+wadv_d:  10.0
+wcontent: 1.5
+wgram: 3
+wcolor: 30.0
+d_layers: 3
+save_epoch: 5
+style: "Hayao"
+use_sn:  False
+d_noise: False

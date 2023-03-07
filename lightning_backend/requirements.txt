@@ -1,0 +1,5 @@
+fastapi==0.78.0
+uvicorn==0.17.6
+lightning==1.8.*
+pytorch-lightning>=1.8.0
+Pillow==9.2.0
